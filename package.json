@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/input.js",
   "scripts": {
     "start": "node src/input.js",
     "dev": "nodemon --exec node src/input.js"
